@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom'
 import { useSelector } from 'react-redux'
 import { selectCurrentUser } from '~/redux/user/userSlice'
 import ModeSelect from '~/components/ModeSelect/ModeSelect'
+import LanguageSelect from '~/components/LanguageSelect/LanguageSelect'
 import Profile from './Menus/Profile'
 import LogoIcon from '~/components/Icons/LogoIcon'
 
@@ -56,6 +57,7 @@ function AppBar() {
       <Stack direction="row" spacing={2} alignItems="center">
         <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
           <ModeSelect />
+          <LanguageSelect />
         </Box>
 
         {currentUser ? (

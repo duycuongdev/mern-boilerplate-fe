@@ -1,0 +1,31 @@
+{
+  "common": {
+    "cancel": "Hủy bỏ",
+    "confirm": "Xác nhận",
+    "save": "Lưu lại",
+    "delete": "Xóa",
+    "loading": "Đang tải...",
+    "retry": "Thử lại"
+  },
+  "mode": {
+    "label": "Chế độ",
+    "light": "Sáng",
+    "dark": "Tối",
+    "system": "Theo hệ thống"
+  },
+  "language": {
+    "label": "Ngôn ngữ"
+  },
+  "appBar": {
+    "boardList": "Danh sách bảng",
+    "typeToSearch": "Nhập để tìm kiếm..."
+  },
+  "profileMenu": {
+    "accountSettings": "Cài đặt tài khoản",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất",
+    "logoutTitle": "Đăng xuất khỏi tài khoản?",
+    "logoutSuccess": "Đăng xuất thành công!"
+  }
+}
