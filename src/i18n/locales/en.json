@@ -1,0 +1,31 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "retry": "Retry"
+  },
+  "mode": {
+    "label": "Mode",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "label": "Language"
+  },
+  "appBar": {
+    "boardList": "Board List",
+    "typeToSearch": "Type to search..."
+  },
+  "profileMenu": {
+    "accountSettings": "Account settings",
+    "profile": "Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "logoutTitle": "Log out of your account?",
+    "logoutSuccess": "Logged out successfully!"
+  }
+}
